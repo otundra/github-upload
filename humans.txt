@@ -1,0 +1,9 @@
+/* TEAM */
+
+   Raúl Serrano
+
+/* THANKS */
+
+   Low-tech magazine for inspiring us on going low profile websites
+
+   Dither image https://doodad.dev/dither-me-this/
